@@ -88,7 +88,6 @@ A skilled full-stack web developer, I am currently pursuing a comprehensive 1000
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshit77715&count_private=true&theme=light" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit77715&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
 </div>
 <br>
 <br>
