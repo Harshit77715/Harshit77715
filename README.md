@@ -23,7 +23,7 @@ A skilled full-stack web developer, I am currently pursuing a comprehensive 1000
 <br />
 <hr>
 
-<img align="center" width="100%" height="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSc2NGMvZaz1_v-XsMXcPMx6K2ULxbTkhMg&s">
+<img align="center" width="100%" height="400px" src="gif.gif">
 
 <hr>
 
