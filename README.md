@@ -19,7 +19,7 @@ A skilled full-stack web developer, I am currently pursuing a comprehensive 1000
 
 - ✉️  You can contact me at [harshit619131@gmail.com](mailto:harshit619131@gmail.com)
 
-- ⭐ My latest project [Mind-Board](https://elegant-jelly-ea5c2c.netlify.app/)
+- ⭐ My latest project [Health-Booster](https://health-booster.netlify.app/)
 <br />
 <hr>
 
