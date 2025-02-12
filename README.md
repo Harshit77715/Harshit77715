@@ -8,10 +8,10 @@
 
  #### 👨‍💻ABOUT ME:
 <h4 align="center">
-A skilled back-end developer, I am currently pursuing a comprehensive 1000+ hour web development course at Masai School, where I am gaining hands-on experience in both individual and collaborative projects. Proficient in HTML, CSS, JavaScript, Express.js, and Node.js, I am eager to apply my growing skills and knowledge in a professional setting while continuing to learn and advance in this dynamic field 💡..</h4>
+A skilled full-stack web developer, I am currently pursuing a comprehensive 1000+ hour web development course at Masai School, where I am gaining hands-on experience in both individual and collaborative projects. Proficient in HTML, CSS, JavaScript, Express.js, and Node.js, I am eager to apply my growing skills and knowledge in a professional setting while continuing to learn and advance in this dynamic field 💡..</h4>
 <br/>
 
-- ⭐ Currently learning Advance Node.js & MongoDB
+- ⭐ Currently learning System Design & TypeScript.
  
 - 🌍  I hail from Muzaffarnagar, Uttar Pradesh.
 
